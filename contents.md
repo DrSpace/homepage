@@ -6,4 +6,6 @@
 
 ### [Tmux 指令和快捷键](tmux.md)
 
-### [Vim指令和快捷键](vim.md) 
+### [Vim 指令和快捷键](vim.md) 
+
+### [Git 指令](git.md)
